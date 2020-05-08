@@ -1,2 +1,2 @@
 # learngit
-learning git 
+learning git from basic
